@@ -1,5 +1,5 @@
 # TAlevelUpR34
-test automation levle up round 34
+test automation leveling up round 34
 # using 
 selenium webdriver  
 testng
